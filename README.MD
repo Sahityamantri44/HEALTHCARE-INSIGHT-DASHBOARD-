@@ -70,16 +70,6 @@ This project presents a fully interactive **Healthcare Dashboard** built in **Po
 
 ---
 
-## 📸 Sample Screenshots
-
-### 🔹 Main Dashboard View
-![Dashboard Screenshot](./screenshots/dashboard_full.png)
-
-### 🔹 KPI Section
-![KPI Cards](./screenshots/kpi_cards_zoomed.png)
-
----
-
 ## 🔍 Insights Derived
 
 - 🩺 Identified departments with prolonged stay durations
@@ -90,6 +80,13 @@ This project presents a fully interactive **Healthcare Dashboard** built in **Po
 ---
 
 ## 📂 Project Structure
+
+📁 healthcare-insights-dashboard/
+├── README.md                      # Detailed project documentation
+├── dashboard/
+│   └── dashboard.pbix             # Power BI dashboard file
+├── screenshots/
+│   └── dashboard_full.png         # Full Dashboard Screenshot
 
 
 ---
@@ -105,9 +102,9 @@ This project presents a fully interactive **Healthcare Dashboard** built in **Po
 
 ## 📬 Contact
 
-**Name:** _Your Name_  
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)
+**Name:** SAHITYA MANTRI
+**LinkedIn:** [linkedin.com/in/mantri-sahitya-a1b65a2b3](https://linkedin.com/in/mantri-sahitya-a1b65a2b3)  
+**GitHub:** [github.com/sahityamantri44](https://github.com/sahityamantri44)
 
 ---
 
